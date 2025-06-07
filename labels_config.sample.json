@@ -1,4 +1,4 @@
-=> Mapping giữa nhãn tùy chỉnh trong Gmail và ID tương ứng. Người dùng cần dùng Gmail API hoặc script riêng để lấy đúng ID.
+// 👉  Mapping giữa nhãn tùy chỉnh trong Gmail và ID tương ứng. Người dùng cần dùng Gmail API hoặc script riêng để lấy đúng ID.
 {
   "Follow up": "Label_1A2B3C4D5E",
   "Waiting": "Label_6F7G8H9I0J",
