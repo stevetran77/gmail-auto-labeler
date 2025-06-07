@@ -56,12 +56,6 @@ Gmail là công cụ không thể thiếu trong công việc hàng ngày, nhưng
 - Dùng **Google Cloud Functions** hoặc **AWS Lambda** kết hợp Gmail Push Notification
 - Luôn chạy nền, không cần mở máy
 
----
+📬 **Maintained by:** [@stevetran77](https://github.com/stevetran77)
 
-## ⚙️ Cài đặt & Chạy thử
-
-```bash
-git clone https://github.com/stevetran77/gmail-auto-labeler.git
-cd gmail-auto-labeler
-pip install -r requirements.txt
-python main.py
+📮 **Liên hệ / góp ý:** https://www.linkedin.com/in/cau-tran99/ or ngoccau2911@gmail.com
